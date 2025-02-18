@@ -1,6 +1,6 @@
 
 **Dr. Faisal Saleem**  
-[dr.faisal20@outlook.com](mailto:dr.faisal20@outlook.com) | [https://linkedin.com/in/fsaleem](https://linkedin.com/in/fsaleem)
+[+44-7544-047510](tel:+44-7544-047510) | [dr.faisal20@outlook.com](mailto:dr.faisal20@outlook.com) | [https://linkedin.com/in/fsaleem](https://linkedin.com/in/fsaleem)
 
 ----------
 
