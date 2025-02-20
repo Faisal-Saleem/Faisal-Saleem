@@ -29,7 +29,7 @@ A visionary IT leader with **decades** of experience, specializing in driving di
 
 [](https://github.com/Faisal-Saleem/Faisal-Saleem/blob/main/README.md#education)
 
--   **PhD Computer Science (Quantum Key Distribution)**
+-   **PhD Computer Science (Quantum Cryptography)**
 -   **MSc Networks and Performance Engineering**
 -   **MBA Marketing**
 -   **Bachelors in Commerce**
