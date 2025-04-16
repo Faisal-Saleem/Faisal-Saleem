@@ -8,7 +8,7 @@ Loves turning big ideas into smart, scalable solutions — always up for collabo
 
 -  PhD Computer Science
 -  MSc Networks and Performance Engineering
--  BA Marketing
+-  MBA Marketing
 
 
 #### 💼 Experience
@@ -24,11 +24,15 @@ Loves turning big ideas into smart, scalable solutions — always up for collabo
 
 #### 🛠️ Skills
 
--  Leadership & Strategy
--  Technology & Architecture
--  Cybersecurity & Compliance
--  Industry Experience
--  Technical Proficiency
+-  Leadership & Team Management
+-  Project Management
+-  Client Engagement & Stakeholder Management
+-  Strategic Planning & Execution
+-  Cost Optimization & Efficiency Improvement
+-  Cross-Functional Collaboration
+-  Problem-Solving & Decision-Making
+-  Communication & Interpersonal Skills
+
 
 
 #### ⚙️ Technologies I've Worked With
