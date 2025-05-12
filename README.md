@@ -2,39 +2,6 @@
 
 Loves turning big ideas into smart, scalable solutions — always up for collaborating and building cool things that make a difference. 🤝💡
 
-#### 🎓 Education
-
-[](https://github.com/Faisal-Saleem/Faisal-Saleem/blob/main/README.md#education)
-
--  PhD Computer Science
--  MSc Networks and Performance Engineering
--  MBA Marketing
-
-
-#### 💼 Experience
-
-[](https://github.com/Faisal-Saleem/Faisal-Saleem/blob/main/README.md#professional-experience)
-
--  Lead Architect
--  Head of Special Projects
--  Head of Product Technology
--  Head of Technology
--  Manager Information Technology
--  Consultant Information Technology
-
-#### 🛠️ Skills
-
--  Leadership & Team Management
--  Project Management
--  Client Engagement & Stakeholder Management
--  Strategic Planning & Execution
--  Cost Optimization & Efficiency Improvement
--  Cross-Functional Collaboration
--  Problem-Solving & Decision-Making
--  Communication & Interpersonal Skills
-
-
-
 #### ⚙️ Technologies I've Worked With
 
 Here’s a collection of the technologies and tools I’ve used to build scalable solutions and drive innovation.
